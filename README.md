@@ -1,2 +1,1 @@
-# Cocos2d
-GameTest
+这是有关于cocos2dx的一些内容。
